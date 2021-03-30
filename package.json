@@ -1,0 +1,12 @@
+{
+  "name": "development-terminology",
+  "version": "1.0.0",
+  "description": "개발 용어 정리",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "jihye <qkrwlgp76@gmail.com>",
+  "license": "ISC"
+}
